@@ -8,7 +8,7 @@ Giving you the best performance you can get without microsoft bloatwares.
 
 
 
-**What is gyrOS based on**?
+**What is AtomOS based on**?
 
 • AtomOS based on stock windows builds from 
 microsoft website.
